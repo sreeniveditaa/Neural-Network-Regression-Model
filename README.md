@@ -6,11 +6,24 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+In this task, we there is a dataset that contains multiple input features (independent variables) and a continuous target variable (dependent variable). The model should learn the relationships between these variables to make accurate predictions on new data.
+
+To achieve this, we should:
+
+Preprocess the dataset – Handle missing values, normalize features, and split the dataset into training and testing sets.
+
+Build the neural network model – Design and implement a regression model using a deep learning framework like TensorFlow/Keras.
+
+Train the model – Use the training dataset to optimize model parameters through backpropagation and gradient descent.
+
+Evaluate the model – Assess the model’s performance using evaluation metrics such as Mean Squared Error (MSE) and R-squared (R²).
+
+Fine-tune the model – Optimize hyperparameters such as learning rate, number of layers, and neurons per layer to improve accuracy.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![{CDD1914A-FB1B-4490-8D76-FFAEC4CF106D}](https://github.com/user-attachments/assets/fbfff882-fade-409f-9e1d-114d20f5781e)
+
 
 ## DESIGN STEPS
 
